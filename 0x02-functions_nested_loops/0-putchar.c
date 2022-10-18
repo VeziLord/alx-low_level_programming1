@@ -1,10 +1,10 @@
-#include "main.h"
-/**
- * main = print _putchar
- * is written by vezi a learner
- * Return: 0
- */
+#incluide "main.h"
 
+/** 
+ * main = print _putchar
+ * is written by vezi
+ * Return: Always 0
+ */
 int main(void)
 {
 _putchar('_');
