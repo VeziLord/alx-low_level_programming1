@@ -1,8 +1,7 @@
 #include "main.h"
-
 /**
  * main = print _putchar
- * written by vezi
+ * is written by vezi a learner
  * Return: 0
  */
 
